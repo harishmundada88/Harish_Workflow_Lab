@@ -1,4 +1,4 @@
-name : My-Firdt-Github-Workflow
+name: My-Firdt-Github-Workflow
 
 run-name: ${{github.actor}} is learning Github Actions
 
