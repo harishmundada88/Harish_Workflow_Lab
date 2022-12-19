@@ -10,5 +10,5 @@ jobs:
     steps:
       - name: echo message
         run: echo "Hellow World"
-    -name: display hostname
-      run: hostname
+      - name: display hostname
+        run: hostname
